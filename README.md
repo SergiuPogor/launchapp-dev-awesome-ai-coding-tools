@@ -199,6 +199,7 @@ Anthropic's open standard for connecting AI tools to data sources and capabiliti
 - [Official MCP servers](https://github.com/modelcontextprotocol/servers) 🟢 — Reference implementations (filesystem, git, GitHub, Slack, etc).
 - [Aident Loadout](https://aident.ai) 🆓 — Remote MCP that connects Codex, Claude Code, Cursor and ChatGPT to 1,000+ apps and 400+ Skills through one setup.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server directory.
+- [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) 🆓 💰 — Hosted MCP server that lets coding agents screenshot a web page as an image, PDF or scrolling video, on phone, tablet or desktop presets.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🟢 — Build agents on top of MCP.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🟢 — Pythonic MCP server framework.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) 🟢 🆓 — Native macOS app whose built-in MCP server lets coding agents see and drive the Android Emulator and phones: screenshots and UI tree in dp, taps, logcat, dark mode, font scale, RTL.
